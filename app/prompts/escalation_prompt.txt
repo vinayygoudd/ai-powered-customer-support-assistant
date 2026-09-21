@@ -1,0 +1,6 @@
+Create a short internal escalation note using only these facts. State why human review is required and what the support specialist should verify.
+
+Customer message:
+{customer_message}
+Category: {predicted_category}
+Priority: {predicted_priority}

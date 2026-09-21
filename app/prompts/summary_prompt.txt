@@ -1,0 +1,7 @@
+Summarize the support ticket using only the supplied facts. Include issue, likely category, priority, and next action. Do not invent facts.
+
+Customer message:
+{customer_message}
+Category: {predicted_category}
+Priority: {predicted_priority}
+Status: {ticket_status}
